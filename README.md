@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Next js**
 
-- 👨‍💻 All of my projects are available at:  <a href="https://kumarravi.in">kumarravi.in</a>
+- 👨‍💻 All of my projects are available at:  <a href="https://kumarravi.in" target="_blank">kumarravi.in</a>
 
 - 💬 Ask me about **React, Javascript, and anything in general**
 
