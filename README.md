@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React, Next js**
 
-- 👨‍💻 All of my projects are available at [kumarravi.in](kumarravi.in)
+- 👨‍💻 All of my projects are available at:  <a href="https://kumarravi.in">kumarravi.in</a>
 
-- 💬 Ask me about **React, Javascript, anything in general**
+- 💬 Ask me about **React, Javascript, and anything in general**
 
 - 📫 How to reach me **kumarraviabhi007@gmail.com**
 
