@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Take a look at my work. Feel Free to reach out.</h3>
 
 <p align="left"> <a href="https://twitter.com/ravikumrz" target="blank"><img src="https://img.shields.io/twitter/follow/ravikumrz?logo=twitter&style=for-the-badge" alt="ravikumrz" /></a> </p>
 
