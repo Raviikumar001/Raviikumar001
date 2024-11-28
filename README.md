@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ravikumrz" target="blank"><img src="https://img.shields.io/twitter/follow/ravikumrz?logo=twitter&style=for-the-badge" alt="ravikumrz" /></a> </p>
 
-- 🌱 I’m currently learning **React, Next JS, Node Js**
+- 🌱 I’m currently learning ** Node Js, Go , Python, React, Next JS,**
 
 - 👨‍💻 All of my projects are available at:  <a href="https://kumarravi.in" target="_blank">kumarravi.in</a>
 
