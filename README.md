@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kumarraviabhi007@gmail.com**
 
-- 📄 Know about my experiences (Resume): https://drive.google.com/file/d/19eOESqVd-12rXzleBqf_PSVwGHLXZthT/view?usp=sharing
+- 📄 Know about my experiences (Resume): https://drive.google.com/file/d/1NNvSrTeX0M1S6KPRLDZ95Xt7wsqiMnHG/view?usp=sharing
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
