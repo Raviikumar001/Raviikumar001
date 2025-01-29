@@ -12,7 +12,7 @@
 - 📫 How to reach me **kumarraviabhi007@gmail.com**
 - 💼 Work Github : https://github.com/ravikumar-hash
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1E9kJ8RRuB6afkrCVvHKc3w172VXA09C2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SA27NyyB9aF6zVRZYZtalTrR3gDUuRSw/view?usp=drive_link)
 
 Walking my 15 miles a day
 
