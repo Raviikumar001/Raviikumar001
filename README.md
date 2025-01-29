@@ -13,7 +13,9 @@
 - 💼 Work Github : https://github.com/ravikumar-hash
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1E9kJ8RRuB6afkrCVvHKc3w172VXA09C2/view?usp=sharing)
-  
+
+Walking my 15 miles a day
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ravikumrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravikumrz" height="30" width="40" /></a>
