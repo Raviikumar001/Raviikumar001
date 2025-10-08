@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kumarraviabhi007@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SA27NyyB9aF6zVRZYZtalTrR3gDUuRSw/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SA27NyyB9aF6zVRZYZtalTrR3gDUuRSw/view?usp=drive_link) not updated
 
 Walking my 15 miles a day
 
