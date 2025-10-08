@@ -10,7 +10,6 @@
 - 💬 Ask me about **React, Javascript, and anything in general**
 
 - 📫 How to reach me **kumarraviabhi007@gmail.com**
-- 💼 Work Github : https://github.com/ravikumar-hash
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SA27NyyB9aF6zVRZYZtalTrR3gDUuRSw/view?usp=drive_link)
 
